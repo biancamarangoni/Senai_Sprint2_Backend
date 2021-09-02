@@ -7,10 +7,10 @@ namespace Senai_Rental_WebAPI.Domains
 {
     public class AluguelDomain
     {
-        public int idAluguel;
-        public VeiculoDomain Veiculo;
-        public ClienteDomain Cliente;
-        public DateTime dataRetirada;
-        public DateTime dataDevolucao;
+        public int idAluguel { get; set; }
+        public VeiculoDomain Veiculo { get; set; }
+        public ClienteDomain Cliente { get; set; }
+        public DateTime dataRetirada { get; set;}
+        public DateTime dataDevolucao { get; set; }
     }
 }

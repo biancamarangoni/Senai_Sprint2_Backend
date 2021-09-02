@@ -7,9 +7,9 @@ namespace Senai_Rental_WebAPI.Domains
 {
     public class ClienteDomain
     {
-        public int idCliente;
-        public string nomeCliente;
-        public string sobrenomeCliente;
-        public int CPF;
+        public int idCliente { get; set; }
+        public string nomeCliente { get; set; }
+        public string sobrenomeCliente { get; set; }
+        public int CPF { get; set; }
     }
 }

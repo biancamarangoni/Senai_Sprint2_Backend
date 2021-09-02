@@ -28,19 +28,19 @@ namespace Senai_Rental_WebAPI.Interfaces
         /// <summary>
         /// Cadastra um aluguel novo
         /// </summary>
-        /// <param name="novoAluguel">Objeto novoGenero com os dados que serão cadastrados</param>
+        /// <param name="novoAluguel">Objeto novoAluguel com os dados que serão cadastrados</param>
         void Cadastrar(AluguelDomain novoAluguel);
 
         /// <summary>
         /// Atualiza um aluguel existente passando o id pela URL da requisição
         /// </summary>
-        /// <param name="idAluguel">id do gênero que será atualizado</param>
+        /// <param name="idAluguel">id do aluguel que será atualizado</param>
         /// <param name="aluguelAtualizado">Objeto aluguelAtualizado com os novos dados</param>
         /// ex: http://localhost:5000/api/aluguel
         void AtualizarIdUrl(int idAluguel, AluguelDomain aluguelAtualizado);
 
         /// <summary>
-        /// Deleta um alugeul
+        /// Deleta um aluguel
         /// </summary>
         /// <param name="idAluguel">id do aluguel que será deletado</param>
         void Deletar(int idAluguel);

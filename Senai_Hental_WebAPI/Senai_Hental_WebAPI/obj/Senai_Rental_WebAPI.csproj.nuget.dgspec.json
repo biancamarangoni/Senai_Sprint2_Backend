@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\Exercícios\\02_rental\\senai_rental_webAPI\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\Senai_Rental_WebAPI.csproj": {}
+    "C:\\Users\\fic\\Desktop\\Senai_Sprint2_Backend\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\Senai_Rental_WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\Exercícios\\02_rental\\senai_rental_webAPI\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\Senai_Rental_WebAPI.csproj": {
+    "C:\\Users\\fic\\Desktop\\Senai_Sprint2_Backend\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\Senai_Rental_WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Exercícios\\02_rental\\senai_rental_webAPI\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\Senai_Rental_WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Senai_Sprint2_Backend\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\Senai_Rental_WebAPI.csproj",
         "projectName": "Senai_Rental_WebAPI",
-        "projectPath": "C:\\Users\\fic\\Desktop\\Exercícios\\02_rental\\senai_rental_webAPI\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\Senai_Rental_WebAPI.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\Senai_Sprint2_Backend\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\Senai_Rental_WebAPI.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\Exercícios\\02_rental\\senai_rental_webAPI\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\Senai_Sprint2_Backend\\Senai_Hental_WebAPI\\Senai_Hental_WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config",

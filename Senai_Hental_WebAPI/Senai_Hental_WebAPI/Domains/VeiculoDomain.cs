@@ -7,9 +7,9 @@ namespace Senai_Rental_WebAPI.Domains
 {
     public class VeiculoDomain
     {
-        public int idVeiculo;
-        public EmpresaDomain Empresa;
-        public ModeloDomain Modelo;
-        public string corVeiculo;
+        public int idVeiculo { get; set; }
+        public EmpresaDomain Empresa { get; set; }
+        public ModeloDomain Modelo { get; set; }
+        public string corVeiculo { get; set; }
     }
 }
